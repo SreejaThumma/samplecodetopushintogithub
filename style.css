@@ -1,0 +1,22 @@
+/*element selector*/
+p{
+    text-align: center;
+    color: aqua;
+}
+/*id selector*/
+#one{
+    text-align: center;
+    color:black;
+}
+
+/* class selector */
+.main{
+    text-align: center;
+    color: brown;
+}
+
+/* universal selector */
+*{
+    text-align:center;
+    color: darkblue;
+}
